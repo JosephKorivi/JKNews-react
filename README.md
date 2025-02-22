@@ -19,7 +19,7 @@
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/JK-NEWS-App.git
+   git clone https://github.com/JosephKorivi/JK-NEWS-App.git
    ```
 2. Navigate to the project directory:
    ```sh
