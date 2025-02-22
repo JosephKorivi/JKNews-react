@@ -1,3 +1,47 @@
+# JK NEWS App
+
+## Overview
+**JK NEWS App** is a dynamic news application that fetches and displays live news updates using a **News API key**. The app provides users with the latest headlines every time they refresh the page, ensuring real-time access to breaking news. Designed with a **stunning UI**, the app enhances the news reading experience with an intuitive and visually appealing interface.
+
+## Features
+- **Live News Updates**: Fetches the latest news dynamically using a News API.
+- **Real-Time Refresh**: Get the newest headlines by simply refreshing the page.
+- **Stunning UI**: Sleek and modern design for an engaging user experience.
+- **Categorized News**: Browse news across different categories like politics, sports, technology, entertainment, and more.
+- **Responsive Design**: Works seamlessly across different devices.
+
+## Tech Stack
+- **Frontend**: HTML, CSS, JavaScript
+- **API Integration**: News API
+- **Frameworks/Libraries**: (Add if applicable, e.g., React, Bootstrap, etc.)
+
+
+## Installation & Setup
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/JK-NEWS-App.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd JK-NEWS-App
+   ```
+3. Open `index.html` in your browser or run a local server.
+4. Replace the placeholder API key with your **News API key** in the configuration file.
+5. Refresh the page to see live news updates.
+
+## API Configuration
+To use this application, you need a **News API Key**:
+1. Sign up at [NewsAPI.org](https://newsapi.org/).
+2. Generate an API key.
+3. Update the API key in the project code.
+
+## Future Enhancements
+- Implement dark mode for better readability.
+- Add search functionality for custom news queries.
+- Develop a mobile-friendly app version.
+- Include user preferences and saved articles.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +112,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Author
+Developed by **Joseph Korivi**.
+
+## License
+This project is licensed under the **MIT License**(LICENSE) – feel free to use and modify it as needed.
+
